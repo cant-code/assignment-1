@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "Testing@123",
+      "userType": "instructor"
+    },
+    {
+      "email": "test2@testing.com",
+      "password": "Testing@12",
+      "userType": "student",
+      "track": "advanced"
+    }
+  ]
+}
